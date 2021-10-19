@@ -1,12 +1,12 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Caileigh;Reece;;;
-FN: Reece  Caileigh 
+N:Dave;Kilgore;;;
+FN: Kilgore  Dave 
 ORG:Dayton Coating Technologies;
-TITLE:Administrative Assistant
-EMAIL;type=INTERNET;type=WORK;type=pref:creece@webdct.com
-TEL;type=WORK;type=VOICE:+65 9123 4567
+TITLE:Sales Coordinator
+EMAIL;type=INTERNET;type=WORK;type=pref:dkilgore@webctg.com
+TEL;type=WORK;type=VOICE:+1 937 260 0024  
 item1.ADR;type=WORK;type=pref:;;1926 E Siebenthaler\nDayton\, Ohio;;;45414;Singapore
 item1.X-ABADR:sg
 item2.URL;type=pref:toolgrindcoat.com
