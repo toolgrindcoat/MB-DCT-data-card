@@ -7,7 +7,7 @@ ORG:Dayton Coating Technologies;
 TITLE:Sales Coordinator
 EMAIL;type=INTERNET;type=WORK;type=pref:dkilgore@webctg.com
 TEL;type=WORK;type=VOICE:+1 937 260 0024  
-item1.ADR;type=WORK;type=pref:;;1926 E Siebenthaler\nDayton\, Ohio;;;45414;Singapore
+item1.ADR;type=WORK;type=pref:;;1926 E Siebenthaler\nDayton\, Ohio, 45414;United States of America 
 item1.X-ABADR:sg
 item2.URL;type=pref:toolgrindcoat.com
 item2.X-ABLabel:_$!<HomePage>!$_
