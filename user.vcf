@@ -1,8 +1,8 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Dave;Kilgore;;;
-FN: Kilgore Dave
+N:Kilgore;Dave;;;
+FN: Dave Kilgore
 ORG:Dayton Coating Technologies;
 TITLE:Sales Coordinator
 EMAIL;type=INTERNET;type=WORK;type=pref:dkilgore@webctg.com
