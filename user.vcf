@@ -1,12 +1,12 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Kilgore;Dave;;;
-FN: Dave Kilgore
+N:Bratton,Mike;;;
+FN: Mike Bratton
 ORG:Dayton Coating Technologies;
-TITLE:Sales Coordinator
-EMAIL;type=INTERNET;type=WORK;type=pref:dkilgore@webctg.com
-TEL;type=WORK;type=VOICE:+1 937 260 0024  
+TITLE:Production Supervisor
+EMAIL;type=INTERNET;type=WORK;type=pref:MBrattonCTG@gmail.com
+TEL;type=WORK;type=VOICE:+1 937 865 5934
 item1.ADR;type=WORK;type=pref:;;1926 E Siebenthaler\nDayton\, Ohio, 45414;United States of America 
 item1.X-ABADR:sg
 item2.URL;type=pref:toolgrindcoat.com
